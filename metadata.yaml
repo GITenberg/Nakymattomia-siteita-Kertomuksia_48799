@@ -1,9 +1,13 @@
 _repo: Nakymattomia-siteita-Kertomuksia_48799
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Francke, Kaarin
     gutenberg_agent_id: '44973'
     url: http://www.gutenberg.org/2009/agents/44973
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lagerlöf, Selma
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1717
     wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48799#Nakymattomia-siteita-Kertomuksia
 gutenberg_issued: '2015-04-26'
 gutenberg_type: Text
 identifiers:
